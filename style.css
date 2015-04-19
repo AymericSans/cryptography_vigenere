@@ -1,0 +1,47 @@
+body {
+	font-family: Helvetica,Arial; 
+	background: #3B3B3E;
+} 
+
+#container {
+	width: 40%;
+	margin: 0 auto;
+	margin-top: 10%;
+	background: #3B3B3E;
+}
+
+h1 {
+	font-size: 20px;
+	color: #fff;
+	margin: 20px auto;
+	letter-spacing: 3px;
+}
+
+textarea {
+	width: 100%;
+	border: 1px solid #fff;
+	background-color: #fff;
+	outline: none;
+}
+
+#overlay1 {
+	height: 100px;
+}
+
+button {
+	width: 101%;
+	height: 50px;
+	margin-top: 15px;
+	background: #495861;
+	border: 1px solid #fff;
+	outline: none;
+	cursor: pointer;
+}
+
+.crypte {
+	color: #fff;
+	font-size: 15px;
+}
+
+
+
